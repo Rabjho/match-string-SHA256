@@ -1,10 +1,7 @@
 # Match a word from a list to a SHA256 hash
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
 ## About
-This tool can take a word from a list and check if it matches a set SHA256 hash.
+This tool can take a word from a list, and check if it matches a given SHA256 hash.
 
 Developed by @Rabjho
 
